@@ -1,0 +1,55 @@
+[
+  { "id": 600,
+  "category": {
+    "id": 0,
+    "name": "turtle"
+  },
+  "name": "Tucker",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+  },
+
+  { "id": 602,
+  "category": {
+    "id": 0,
+    "name": "rabbit"
+  },
+  "name": "Charlie",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+  },
+
+  { "id": 603,
+  "category": {
+    "id": 0,
+    "name": "hamster"
+  },
+  "name": "Penny",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+  }
+]

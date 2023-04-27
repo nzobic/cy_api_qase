@@ -1,0 +1,55 @@
+{
+  "TC01":{ "id": 700,
+  "category": {
+    "id": 0,
+    "name": "turtle"
+  },
+  "name": "Tucker",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+  },
+
+  "TC02":{ "id": 701,
+  "category": {
+    "id": 0,
+    "name": "rabbit"
+  },
+  "name": "Charlie",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+  },
+
+  "TC03":{ "id": 702,
+  "category": {
+    "id": 0,
+    "name": "hamster"
+  },
+  "name": "Penny",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+  }
+}

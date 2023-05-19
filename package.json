@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "pet": "cypress run --headed --spec 'cypress/e2e/petstore-pet-post-request.cy.js' --no-exit",
-    "store": "cypress run --headed --spec 'cypress/e2e/petstore-store-post-request.cy.js' --no-exit"
+    "qase-post": "cypress run --headed --spec 'cypress/e2e/qase-post-request.cy.js' --no-exit",
+    "qase-get": "cypress run --headed --spec 'cypress/e2e/qase-get-request.cy.js' --no-exit",
+    "qase-delete": "cypress run --headed --spec 'cypress/e2e/qase-delete-request.cy.js' --no-exit"
   },
   "author": "",
   "license": "ISC",
